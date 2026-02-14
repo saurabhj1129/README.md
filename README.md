@@ -1,21 +1,20 @@
 # Hi 👋, I'm Saurabh Jambhulkar
 
-🎓 BCA Student | 💻 Aspiring Backend / SQL Developer  
+🎓 BCA Student | SQL Development 
 📍 India  
 
 ---
 
 ## 🚀 About Me
-- I am a **BCA student** with strong interest in **SQL, Backend Development, and Java**
+- I am a **BCA student** with strong interest in **SQL and Java**
 - I enjoy building **mini projects** to strengthen my concepts
-- Currently learning **DBMS, JDBC, APIs, and Backend technologies**
+- Currently learning **DBMS, JDBC, Java**
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Java, SQL, C, C++
-- **Database:** MySQL
-- **Web:** HTML, CSS (Basics)
+- **Languages:** Java, SQL
+- **Database:** MySQL, Oracle database 
 - **Tools:** Git, GitHub, VS Code
 
 ---
@@ -29,13 +28,17 @@
 - Simple HTML-based game project
 - Focused on logic and UI basics
 
+### 🔹 E-COMMERCE-SQL-PROJECT 
+- DML,DDL
+- Joins
+- Transactions 
+
 ---
 
 ## 📈 Currently Learning
 - Advanced SQL Queries
 - JDBC
-- REST APIs
-- Backend Concepts
+- Java
 
 ---
 
