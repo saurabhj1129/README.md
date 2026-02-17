@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 - **Languages:** Java, SQL
 - **Database:** MySQL, Oracle database 
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** GitHub, VS Code
 
 ---
 
